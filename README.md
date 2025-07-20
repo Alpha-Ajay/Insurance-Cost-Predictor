@@ -115,7 +115,7 @@ Here are the actual plots based on our dataset:
 ## ☁️ Deployment
 
 * Deployed on **Streamlit Community Cloud**.
-* **Live Demo**: [https://share.streamlit.io/your-username/insurance-cost-predictor/main/app.py](#)
+* **Live Demo**: [[https://share.streamlit.io/your-username/insurance-cost-predictor/main/app.py](https://insurance-cost-predictor-fdwtzqva8gfvwcwtvwryjw.streamlit.app/)](#)
 
 ---
 
