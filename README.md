@@ -92,10 +92,10 @@ InsuranceCostPredictor/
 
 Here are the actual plots based on our dataset:
 
-<img src="screenshots/regression_plot.png" alt="Regression Plot" width="500" />
+<img src="screenshots/Regression Plot.png" alt="Regression Plot" width="500" />
 <p align="center"><b>Figure 1:</b> Regression Line: Actual vs Predicted Insurance Charges</p>
 
-<img src="screenshots/smoker_vs_charges.png" alt="Smoker vs Charges" width="500" />
+<img src="screenshots/Smoking_vs_Charges.png" alt="Smoker vs Charges" width="500" />
 <p align="center"><b>Figure 2:</b> Insurance Charges Comparison: Smokers vs Non-Smokers</p>
 
 > 📂 You can find these images inside the `screenshots/` folder.
